@@ -14,4 +14,4 @@ public class Q10_ArmStrongCheck {
             System.out.println(originalNum + " is not an Armstrong number.");
         }
     }
-}
+} 
